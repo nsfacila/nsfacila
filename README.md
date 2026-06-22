@@ -1,34 +1,64 @@
 
 # Noelia Sánchez | Data Analyst & Business Intelligence
 
-Data Analyst with a focus on business intelligence, data analysis and automation.  
-My work combines Power BI dashboards, data modeling, SQL querying and Python-based data processing, supported by a strong technical foundation in programming and problem-solving.
+### Hi, I'm Noelia 👋
+
+Data Analyst passionate about transforming data into actionable insights through Business Intelligence, Machine Learning and interactive analytics solutions.
+
+Currently building projects with Power BI, Python, SQL and Streamlit while strengthening my software engineering background through the 42 programming curriculum.
+
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+</p>
 
 ---
 
 ## 🔍 What I Do
 
-- Build end-to-end Power BI dashboards focused on business performance and decision-making  
-- Design clean and scalable data models (star schema)  
-- Create DAX measures for time intelligence and analytical KPIs  
-- Work with data extraction, cleaning and transformation  
-- Translate data into clear insights through structured visual storytelling  
+- End-to-end Business Intelligence solutions with Power BI
+- Machine learning models for predictive analytics
+- ETL pipelines and data transformation workflows
+- Relational data models and SQL-based analysis
+- Interactive data applications with Streamlit
 
 ---
 
-## 📊 Featured Projects
+## Featured Project
 
-### US Sales Performance Dashboard (Power BI)
-End-to-end BI project analyzing sales performance in the US market, including data modeling, DAX time intelligence and executive-level reporting.
+### Tourism Spending Forecasting
 
-👉 Repository: *powerbi-us-sales-performance*  
-👉 Live dashboard available via Power BI Service
+End-to-end machine learning application predicting tourism expenditure through regression modelling and deployed with Streamlit.
+
+🔗 Live Demo:
+https://nsfacila-tourism-spending-forecasting-app-yq3trd.streamlit.app
+
+🔗 Repository:
+https://github.com/nsfacila/Tourism_spending_forecasting
 
 *(More data analytics projects coming: SQL, Python and data cleaning use cases)*
 
 ---
 
-## 🧠 Technical Background
+## Technical Background
 
 Alongside data analytics, I have a strong programming foundation developed through low-level C projects and algorithmic problem-solving in a project-based learning environment.
 
@@ -36,13 +66,15 @@ This background strengthens my analytical thinking, debugging skills and underst
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
-- **BI & Analytics:** Power BI, DAX  
-- **Data:** SQL (basic), data modeling, data cleaning  
-- **Programming:** Python (data processing), C  
-- **Version Control:** Git, GitHub  
-- **Environment:** Linux  
+**Business Intelligence:** Power BI, DAX, Data Modelling, ETL
+
+**Data Analytics:** Python, Pandas, NumPy, SQL
+
+**Machine Learning:** Scikit-Learn, Predictive Modelling, Streamlit
+
+**Development:** Git, GitHub, Docker, Linux
 
 ---
 
