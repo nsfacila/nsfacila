@@ -1,5 +1,13 @@
+# Noelia Sánchez |  Data Analyst & Business Intelligence
 
-# Noelia Sánchez | Data Analyst & Business Intelligence
+<p align="left">
+  <a href="https://www.linkedin.com/in/noelia-s%C3%A1nchez-f%C3%A1cila/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://nsfacila.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://nsfacila-tourism-spending-forecasting-app-yq3trd.streamlit.app/"><img src="https://img.shields.io/badge/STREAMLIT_DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Demo"></a>
+  <a href="mailto:nsfacila@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+
 
 ### Hi, I'm Noelia 👋
 
@@ -8,55 +16,32 @@ Data Analyst passionate about transforming data into actionable insights through
 Currently building projects with Power BI, Python, SQL and Streamlit while strengthening my software engineering background through the 42 programming curriculum.
 
 
+
+---
+
+## Technical Ecosystem
+
 <p align="left">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,scikitlearn,c,linux,docker,git,github,vscode,apple,notion&theme=dark" />
+  </a>
 </p>
 
----
-
-## 🔍 What I Do
-
-- End-to-end Business Intelligence solutions with Power BI
-- Machine learning models for predictive analytics
-- ETL pipelines and data transformation workflows
-- Relational data models and SQL-based analysis
-- Interactive data applications with Streamlit
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### Tourism Spending Forecasting
+### Tourism Spending Forecasting App
+> **Stack:** Python • Scikit-Learn • Streamlit • Predictive Modeling
 
-End-to-end machine learning application predicting tourism expenditure through regression modelling and deployed with Streamlit.
+An end-to-end Machine Learning pipeline designed to predict regional tourism expenditure. Features automated exploratory analysis, regression model tuning, and an interactive web deployment tailored for stakeholders.
 
 🔗 Live Demo:
 https://nsfacila-tourism-spending-forecasting-app-yq3trd.streamlit.app
 
 🔗 Repository:
 https://github.com/nsfacila/Tourism_spending_forecasting
-
-*(More data analytics projects coming: SQL, Python and data cleaning use cases)*
-
----
 
 ## Technical Background
 
@@ -78,18 +63,12 @@ This background strengthens my analytical thinking, debugging skills and underst
 
 ---
 
-## 🚀 Currently Working On
+## 🌐 Contact & Links
 
-- Expanding my data analytics portfolio with SQL and Python projects  
-- Improving dashboard design and storytelling for business users  
-- Deepening my understanding of data modeling and automation workflows  
-
----
-
-
-## 🌐 Contacto
-- **LinkedIn**: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/noelia-s%C3%A1nchez-f%C3%A1cila/)
-- **Email**: [Mi email](mailto:nsfacila@hotmail.com)
+* **LinkedIn:** [linkedin.com/in/noelia-sanchez-facila](https://www.linkedin.com/in/noelia-s%C3%A1nchez-f%C3%A1cila/)
+* **Portfolio:** [nsfacila.github.io/portfolio](https://nsfacila.github.io/portfolio/)
+* **Streamlit App:** [Tourism Spending App](https://nsfacila-tourism-spending-forecasting-app-yq3trd.streamlit.app/)
+* **Email:** nsfacila@hotmail.com
 
 ---
 
