@@ -38,7 +38,7 @@ Currently building projects with Power BI, Python, SQL and Streamlit while stren
 An end-to-end Machine Learning pipeline designed to predict regional tourism expenditure. Features automated exploratory analysis, regression model tuning, and an interactive web deployment tailored for stakeholders.
 
 🔗 Live Demo:
-https://nsfacila-tourism-spending-forecasting-app-yq3trd.streamlit.app
+https://nsfacila-tourism-spending-forecasting-app-nsf.streamlit.app
 
 🔗 Repository:
 https://github.com/nsfacila/Tourism_spending_forecasting
