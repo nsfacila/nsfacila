@@ -67,7 +67,7 @@ This background strengthens my analytical thinking, debugging skills and underst
 
 * **LinkedIn:** [linkedin.com/in/noelia-sanchez-facila](https://www.linkedin.com/in/noelia-s%C3%A1nchez-f%C3%A1cila/)
 * **Portfolio:** [nsfacila.github.io/portfolio](https://nsfacila.github.io/portfolio/)
-* **Streamlit App:** [Tourism Spending App](https://nsfacila-tourism-spending-forecasting-app-yq3trd.streamlit.app/)
+* **Streamlit App:** [Tourism Spending App]([https://nsfacila-tourism-spending-forecasting-app-yq3trd.streamlit.app/)
 * **Email:** nsfacila@hotmail.com
 
 ---
